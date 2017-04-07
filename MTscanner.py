@@ -1,3 +1,6 @@
+'''
+This is a Multithreaded TCP port scanner. On my machine it can scan all ports in 30 seconds.
+'''
 from socket import *
 import sys,time
 from datetime import datetime
